@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.head{
+ background-image:url(./image/Title.jpg);
+ background-repeat: no-repeat;
+ height:800px ; 
+ background-size:cover;
+ background-position: center;
+ position: relative;
+ 
+
+}
+
+.text{
+    position: absolute;
+    top: 180px;
+}
+
+.box1{
+
+    color: white;
+    text-align: left;
+    display:block;
+    text-decoration: none;
+    font-size: 50px;
+
+    }
+   
+.box2{
+    background-image:url(./image/Awards.jpg);
+
+}
+.text1{
+    font-size: 50px;
+    text-align: center;
+    color: white; 
+    /* top:20px;
+    left: 5%;
+    position: absolute; */
+    
+    
+}
+.text2{
+    font-size: 30px;
+    text-align: left;
+    color: cadetblue;
+    /* position: relative;
+    top: 160px;
+    left: 30px; */
+}
